@@ -15,6 +15,7 @@
         "ecmaVersion": 11
     },
     "rules": {
-        "indent": "off"
+        "indent": "off",
+        "no-console": "off"
     }
 }
